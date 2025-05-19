@@ -1,0 +1,2 @@
+plantas.map((arvore) => arvore.mostra());
+  
